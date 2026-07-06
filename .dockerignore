@@ -3,3 +3,7 @@ venv
 .flake8
 .gitignore
 .env
+*.pyo
+*.pyc
+__pycache__/
+.pytest_cache/
